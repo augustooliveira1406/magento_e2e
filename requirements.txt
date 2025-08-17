@@ -1,0 +1,9 @@
+robotframework==7.0
+robotframework-seleniumlibrary==6.7.1
+robotframework-browser==18.0.0
+robotframework-faker==5.0.0
+requests==2.32.3
+robotframework-csvlibrary==0.0.5
+webdriver-manager==4.0.2
+docx==0.2.4
+docx2pdf==0.1.8
